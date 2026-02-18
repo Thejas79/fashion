@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Men's Classic Blue Shirt",
+    "price": 29.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (1).jpg",
+    "description": "Classic blue shirt perfect for office and casual wear"
+  },
+  {
+    "id": 2,
+    "title": "Men's Formal Black Blazer",
+    "price": 89.99,
+    "category": "men",
+    "subcategory": "blazer",
+    "image": "images/men/blazer (1).jpg",
+    "description": "Elegant black blazer for formal occasions"
+  },
+  {
+    "id": 3,
+    "title": "Men's Casual Jeans",
+    "price": 49.99,
+    "category": "men",
+    "subcategory": "pants",
+    "image": "images/men/pants (1).jpg",
+    "description": "Comfortable denim jeans for everyday wear"
+  },
+  {
+    "id": 4,
+    "title": "Women's Elegant Kurta",
+    "price": 39.99,
+    "category": "women",
+    "subcategory": "kurta",
+    "image": "images/women/kurta (1).jpg",
+    "description": "Traditional kurta with modern design"
+  },
+  {
+    "id": 5,
+    "title": "Women's Stylish Jacket",
+    "price": 69.99,
+    "category": "women",
+    "subcategory": "jacket",
+    "image": "images/women/jacket (1).jpg",
+    "description": "Trendy jacket for all seasons"
+  },
+  {
+    "id": 6,
+    "title": "Women's Formal Pants",
+    "price": 44.99,
+    "category": "women",
+    "subcategory": "pants",
+    "image": "images/women/pants (1).jpg",
+    "description": "Professional pants for office wear"
+  },
+  {
+    "id": 7,
+    "title": "Fashion Handbag",
+    "price": 34.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (1).jpg",
+    "description": "Stylish handbag for any occasion"
+  },
+  {
+    "id": 8,
+    "title": "Elegant Earrings",
+    "price": 19.99,
+    "category": "accessories",
+    "subcategory": "earrings",
+    "image": "images/accessories/earrings (1).jpg",
+    "description": "Beautiful earrings to complement any outfit"
+  },
+  {
+    "id": 9,
+    "title": "Men's White Shirt",
+    "price": 32.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (2).jpg",
+    "description": "Crisp white shirt essential for every wardrobe"
+  },
+  {
+    "id": 10,
+    "title": "Women's Designer Kurta",
+    "price": 45.99,
+    "category": "women",
+    "subcategory": "kurta",
+    "image": "images/women/kurta (2).jpg",
+    "description": "Designer kurta with intricate patterns"
+  },
+  {
+    "id": 11,
+    "title": "Men's Navy Blazer",
+    "price": 94.99,
+    "category": "men",
+    "subcategory": "blazer",
+    "image": "images/men/blazer (2).jpg",
+    "description": "Navy blue blazer for business meetings"
+  },
+  {
+    "id": 12,
+    "title": "Fashion Hat",
+    "price": 24.99,
+    "category": "accessories",
+    "subcategory": "hats",
+    "image": "images/accessories/hats (1).jpg",
+    "description": "Stylish hat for sun protection and fashion"
+  }
+]
