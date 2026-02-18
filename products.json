@@ -46,6 +46,78 @@
   },
   {
     "id": 6,
+    "title": "Men's Casual Shirt 6",
+    "price": 31.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (6).jpg",
+    "description": "Comfortable casual shirt for everyday wear"
+  },
+  {
+    "id": 7,
+    "title": "Men's Business Shirt 7",
+    "price": 33.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (7).jpg",
+    "description": "Professional business shirt for meetings"
+  },
+  {
+    "id": 8,
+    "title": "Men's Modern Shirt 8",
+    "price": 36.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (8).jpg",
+    "description": "Modern shirt with contemporary design"
+  },
+  {
+    "id": 9,
+    "title": "Men's Classic Shirt 9",
+    "price": 32.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (9).jpg",
+    "description": "Classic shirt for versatile styling"
+  },
+  {
+    "id": 10,
+    "title": "Men's Premium Shirt 10",
+    "price": 34.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (10).jpg",
+    "description": "Premium shirt for special occasions"
+  },
+  {
+    "id": 11,
+    "title": "Men's Fashion Shirt 11",
+    "price": 35.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (11).jpg",
+    "description": "Fashionable shirt for trendy look"
+  },
+  {
+    "id": 12,
+    "title": "Men's Elegant Shirt 12",
+    "price": 37.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (12).jpg",
+    "description": "Elegant shirt for formal events"
+  },
+  {
+    "id": 13,
+    "title": "Men's Comfort Shirt 13",
+    "price": 33.99,
+    "category": "men",
+    "subcategory": "shirts",
+    "image": "images/men/shirts (13).jpg",
+    "description": "Comfortable shirt for all-day wear"
+  },
+  {
+    "id": 14,
     "title": "Men's Black Formal Blazer",
     "price": 89.99,
     "category": "men",
@@ -54,7 +126,7 @@
     "description": "Elegant black blazer for formal occasions"
   },
   {
-    "id": 7,
+    "id": 15,
     "title": "Men's Navy Business Blazer",
     "price": 94.99,
     "category": "men",
@@ -63,7 +135,7 @@
     "description": "Navy blue blazer for business meetings"
   },
   {
-    "id": 8,
+    "id": 16,
     "title": "Men's Grey Casual Blazer",
     "price": 79.99,
     "category": "men",
@@ -72,7 +144,7 @@
     "description": "Versatile grey blazer for semi-formal events"
   },
   {
-    "id": 9,
+    "id": 17,
     "title": "Men's Brown Leather Blazer",
     "price": 119.99,
     "category": "men",
@@ -81,7 +153,7 @@
     "description": "Premium leather blazer for luxury style"
   },
   {
-    "id": 10,
+    "id": 18,
     "title": "Men's Charcoal Suit Blazer",
     "price": 99.99,
     "category": "men",
@@ -90,7 +162,61 @@
     "description": "Professional charcoal blazer for suits"
   },
   {
-    "id": 11,
+    "id": 19,
+    "title": "Men's Modern Blazer 6",
+    "price": 84.99,
+    "category": "men",
+    "subcategory": "blazer",
+    "image": "images/men/blazer (6).jpg",
+    "description": "Modern blazer with contemporary fit"
+  },
+  {
+    "id": 20,
+    "title": "Men's Classic Blazer 7",
+    "price": 87.99,
+    "category": "men",
+    "subcategory": "blazer",
+    "image": "images/men/blazer (7).jpg",
+    "description": "Classic blazer for timeless style"
+  },
+  {
+    "id": 21,
+    "title": "Men's Sport Blazer 8",
+    "price": 76.99,
+    "category": "men",
+    "subcategory": "blazer",
+    "image": "images/men/blazer (8).jpg",
+    "description": "Sport blazer for casual elegance"
+  },
+  {
+    "id": 22,
+    "title": "Men's Executive Blazer 9",
+    "price": 92.99,
+    "category": "men",
+    "subcategory": "blazer",
+    "image": "images/men/blazer (9).jpg",
+    "description": "Executive blazer for leadership style"
+  },
+  {
+    "id": 23,
+    "title": "Men's Designer Blazer 10",
+    "price": 104.99,
+    "category": "men",
+    "subcategory": "blazer",
+    "image": "images/men/blazer (10).jpg",
+    "description": "Designer blazer for premium look"
+  },
+  {
+    "id": 24,
+    "title": "Men's Slim Blazer 11",
+    "price": 88.99,
+    "category": "men",
+    "subcategory": "blazer",
+    "image": "images/men/blazer (11).jpg",
+    "description": "Slim fit blazer for modern silhouette"
+  },
+  {
+    "id": 25,
     "title": "Men's Casual Jeans",
     "price": 49.99,
     "category": "men",
@@ -99,7 +225,7 @@
     "description": "Comfortable denim jeans for everyday wear"
   },
   {
-    "id": 12,
+    "id": 26,
     "title": "Men's Black Formal Pants",
     "price": 54.99,
     "category": "men",
@@ -108,7 +234,7 @@
     "description": "Classic black formal pants for office wear"
   },
   {
-    "id": 13,
+    "id": 27,
     "title": "Men's Khaki Chinos",
     "price": 44.99,
     "category": "men",
@@ -117,7 +243,7 @@
     "description": "Comfortable khaki chinos for casual outings"
   },
   {
-    "id": 14,
+    "id": 28,
     "title": "Men's Navy Dress Pants",
     "price": 59.99,
     "category": "men",
@@ -126,7 +252,7 @@
     "description": "Elegant navy dress pants for formal events"
   },
   {
-    "id": 15,
+    "id": 29,
     "title": "Men's Grey Casual Pants",
     "price": 42.99,
     "category": "men",
@@ -135,7 +261,70 @@
     "description": "Comfortable grey pants for weekend wear"
   },
   {
-    "id": 16,
+    "id": 30,
+    "title": "Men's Slim Pants 6",
+    "price": 46.99,
+    "category": "men",
+    "subcategory": "pants",
+    "image": "images/men/pants (6).jpg",
+    "description": "Slim fit pants for modern look"
+  },
+  {
+    "id": 31,
+    "title": "Men's Comfort Pants 7",
+    "price": 41.99,
+    "category": "men",
+    "subcategory": "pants",
+    "image": "images/men/pants (7).jpg",
+    "description": "Comfortable pants for all-day wear"
+  },
+  {
+    "id": 32,
+    "title": "Men's Business Pants 8",
+    "price": 52.99,
+    "category": "men",
+    "subcategory": "pants",
+    "image": "images/men/pants (8).jpg",
+    "description": "Business pants for professional meetings"
+  },
+  {
+    "id": 33,
+    "title": "Men's Classic Pants 9",
+    "price": 43.99,
+    "category": "men",
+    "subcategory": "pants",
+    "image": "images/men/pants (9).jpg",
+    "description": "Classic pants for versatile styling"
+  },
+  {
+    "id": 34,
+    "title": "Men's Modern Pants 10",
+    "price": 47.99,
+    "category": "men",
+    "subcategory": "pants",
+    "image": "images/men/pants (10).jpg",
+    "description": "Modern pants with contemporary design"
+  },
+  {
+    "id": 35,
+    "title": "Men's Executive Pants 11",
+    "price": 56.99,
+    "category": "men",
+    "subcategory": "pants",
+    "image": "images/men/pants (11).jpg",
+    "description": "Executive pants for leadership style"
+  },
+  {
+    "id": 36,
+    "title": "Men's Designer Pants 12",
+    "price": 61.99,
+    "category": "men",
+    "subcategory": "pants",
+    "image": "images/men/pants (12).jpg",
+    "description": "Designer pants for premium look"
+  },
+  {
+    "id": 37,
     "title": "Men's Business Formal Suit",
     "price": 149.99,
     "category": "men",
@@ -144,7 +333,7 @@
     "description": "Complete business suit for professional meetings"
   },
   {
-    "id": 17,
+    "id": 38,
     "title": "Men's Wedding Formal Suit",
     "price": 189.99,
     "category": "men",
@@ -153,7 +342,7 @@
     "description": "Elegant suit perfect for wedding occasions"
   },
   {
-    "id": 18,
+    "id": 39,
     "title": "Men's Black Tuxedo",
     "price": 229.99,
     "category": "men",
@@ -162,7 +351,7 @@
     "description": "Classic black tuxedo for formal events"
   },
   {
-    "id": 19,
+    "id": 40,
     "title": "Men's Grey Business Suit",
     "price": 169.99,
     "category": "men",
@@ -171,7 +360,52 @@
     "description": "Professional grey suit for business wear"
   },
   {
-    "id": 20,
+    "id": 41,
+    "title": "Men's Casual Look 1",
+    "price": 39.99,
+    "category": "men",
+    "subcategory": "formals",
+    "image": "images/men/images (1).jpg",
+    "description": "Stylish casual outfit for everyday wear"
+  },
+  {
+    "id": 42,
+    "title": "Men's Casual Look 2",
+    "price": 42.99,
+    "category": "men",
+    "subcategory": "formals",
+    "image": "images/men/images (2).jpg",
+    "description": "Modern casual outfit for weekend outings"
+  },
+  {
+    "id": 43,
+    "title": "Men's Casual Look 3",
+    "price": 44.99,
+    "category": "men",
+    "subcategory": "formals",
+    "image": "images/men/images (3).jpg",
+    "description": "Trendy casual outfit for social events"
+  },
+  {
+    "id": 44,
+    "title": "Men's Casual Look 4",
+    "price": 46.99,
+    "category": "men",
+    "subcategory": "formals",
+    "image": "images/men/images (4).jpg",
+    "description": "Fashionable casual outfit for parties"
+  },
+  {
+    "id": 45,
+    "title": "Men's Casual Look 5",
+    "price": 48.99,
+    "category": "men",
+    "subcategory": "formals",
+    "image": "images/men/images (5).jpg",
+    "description": "Smart casual outfit for dinners"
+  },
+  {
+    "id": 46,
     "title": "Women's Elegant Kurta",
     "price": 39.99,
     "category": "women",
@@ -180,7 +414,7 @@
     "description": "Traditional kurta with modern design"
   },
   {
-    "id": 21,
+    "id": 47,
     "title": "Women's Designer Kurta",
     "price": 45.99,
     "category": "women",
@@ -189,7 +423,7 @@
     "description": "Designer kurta with intricate patterns"
   },
   {
-    "id": 22,
+    "id": 48,
     "title": "Women's Floral Print Kurta",
     "price": 42.99,
     "category": "women",
@@ -198,7 +432,7 @@
     "description": "Beautiful floral print kurta for festive occasions"
   },
   {
-    "id": 23,
+    "id": 49,
     "title": "Women's Embroidered Kurta",
     "price": 55.99,
     "category": "women",
@@ -207,7 +441,7 @@
     "description": "Hand-embroidered kurta with traditional designs"
   },
   {
-    "id": 24,
+    "id": 50,
     "title": "Women's Casual Cotton Kurta",
     "price": 29.99,
     "category": "women",
@@ -216,7 +450,52 @@
     "description": "Comfortable cotton kurta for daily wear"
   },
   {
-    "id": 25,
+    "id": 51,
+    "title": "Women's Premium Kurta 6",
+    "price": 49.99,
+    "category": "women",
+    "subcategory": "kurta",
+    "image": "images/women/kurta (6).jpg",
+    "description": "Premium kurta with exclusive design"
+  },
+  {
+    "id": 52,
+    "title": "Women's Classic Kurta 7",
+    "price": 37.99,
+    "category": "women",
+    "subcategory": "kurta",
+    "image": "images/women/kurta (7).jpg",
+    "description": "Classic kurta for timeless elegance"
+  },
+  {
+    "id": 53,
+    "title": "Women's Modern Kurta 8",
+    "price": 43.99,
+    "category": "women",
+    "subcategory": "kurta",
+    "image": "images/women/kurta (8).jpg",
+    "description": "Modern kurta with contemporary style"
+  },
+  {
+    "id": 54,
+    "title": "Women's Elegant Kurta 9",
+    "price": 47.99,
+    "category": "women",
+    "subcategory": "kurta",
+    "image": "images/women/kurta (9).jpg",
+    "description": "Elegant kurta for special occasions"
+  },
+  {
+    "id": 55,
+    "title": "Women's Designer Kurta 10",
+    "price": 52.99,
+    "category": "women",
+    "subcategory": "kurta",
+    "image": "images/women/kurta (10).jpg",
+    "description": "Designer kurta for premium look"
+  },
+  {
+    "id": 56,
     "title": "Women's Stylish Jacket",
     "price": 69.99,
     "category": "women",
@@ -225,7 +504,7 @@
     "description": "Trendy jacket for all seasons"
   },
   {
-    "id": 26,
+    "id": 57,
     "title": "Women's Denim Jacket",
     "price": 59.99,
     "category": "women",
@@ -234,7 +513,7 @@
     "description": "Classic denim jacket for casual look"
   },
   {
-    "id": 27,
+    "id": 58,
     "title": "Women's Leather Jacket",
     "price": 89.99,
     "category": "women",
@@ -243,7 +522,7 @@
     "description": "Edgy leather jacket for bold style"
   },
   {
-    "id": 28,
+    "id": 59,
     "title": "Women's Bomber Jacket",
     "price": 64.99,
     "category": "women",
@@ -252,7 +531,7 @@
     "description": "Sporty bomber jacket for active lifestyle"
   },
   {
-    "id": 29,
+    "id": 60,
     "title": "Women's Winter Coat",
     "price": 99.99,
     "category": "women",
@@ -261,7 +540,43 @@
     "description": "Warm winter coat for cold weather"
   },
   {
-    "id": 30,
+    "id": 61,
+    "title": "Women's Fashion Jacket 6",
+    "price": 74.99,
+    "category": "women",
+    "subcategory": "jacket",
+    "image": "images/women/jacket (6).jpg",
+    "description": "Fashionable jacket for trendy look"
+  },
+  {
+    "id": 62,
+    "title": "Women's Casual Jacket 7",
+    "price": 54.99,
+    "category": "women",
+    "subcategory": "jacket",
+    "image": "images/women/jacket (7).jpg",
+    "description": "Casual jacket for everyday wear"
+  },
+  {
+    "id": 63,
+    "title": "Women's Modern Jacket 8",
+    "price": 67.99,
+    "category": "women",
+    "subcategory": "jacket",
+    "image": "images/women/jacket (8).jpg",
+    "description": "Modern jacket with contemporary design"
+  },
+  {
+    "id": 64,
+    "title": "Women's Elegant Jacket 9",
+    "price": 79.99,
+    "category": "women",
+    "subcategory": "jacket",
+    "image": "images/women/jacket (9).jpg",
+    "description": "Elegant jacket for formal occasions"
+  },
+  {
+    "id": 65,
     "title": "Women's Formal Pants",
     "price": 44.99,
     "category": "women",
@@ -270,7 +585,7 @@
     "description": "Professional pants for office wear"
   },
   {
-    "id": 31,
+    "id": 66,
     "title": "Women's Black Trousers",
     "price": 39.99,
     "category": "women",
@@ -279,7 +594,7 @@
     "description": "Classic black trousers for versatile styling"
   },
   {
-    "id": 32,
+    "id": 67,
     "title": "Women's Beige Pants",
     "price": 34.99,
     "category": "women",
@@ -288,7 +603,7 @@
     "description": "Neutral beige pants for casual elegance"
   },
   {
-    "id": 33,
+    "id": 68,
     "title": "Women's Grey Office Pants",
     "price": 42.99,
     "category": "women",
@@ -297,7 +612,7 @@
     "description": "Professional grey pants for business meetings"
   },
   {
-    "id": 34,
+    "id": 69,
     "title": "Women's Navy Formal Pants",
     "price": 46.99,
     "category": "women",
@@ -306,7 +621,16 @@
     "description": "Elegant navy pants for formal occasions"
   },
   {
-    "id": 35,
+    "id": 70,
+    "title": "Women's Slim Pants 6",
+    "price": 38.99,
+    "category": "women",
+    "subcategory": "pants",
+    "image": "images/women/pants (6).jpg",
+    "description": "Slim fit pants for modern silhouette"
+  },
+  {
+    "id": 71,
     "title": "Women's Blue Jeans",
     "price": 54.99,
     "category": "women",
@@ -315,7 +639,7 @@
     "description": "Classic blue jeans for everyday comfort"
   },
   {
-    "id": 36,
+    "id": 72,
     "title": "Women's Skinny Jeans",
     "price": 49.99,
     "category": "women",
@@ -324,7 +648,7 @@
     "description": "Modern skinny jeans for trendy look"
   },
   {
-    "id": 37,
+    "id": 73,
     "title": "Women's Formal Office Wear",
     "price": 79.99,
     "category": "women",
@@ -333,7 +657,25 @@
     "description": "Professional formal wear for office meetings"
   },
   {
-    "id": 38,
+    "id": 74,
+    "title": "Women's Casual Look",
+    "price": 35.99,
+    "category": "women",
+    "subcategory": "formals",
+    "image": "images/women/images.jpg",
+    "description": "Stylish casual outfit for everyday wear"
+  },
+  {
+    "id": 75,
+    "title": "Women's Fashion Look 9",
+    "price": 42.99,
+    "category": "women",
+    "subcategory": "formals",
+    "image": "images/women/images (9).jpg",
+    "description": "Fashionable outfit for special occasions"
+  },
+  {
+    "id": 76,
     "title": "Fashion Handbag",
     "price": 34.99,
     "category": "accessories",
@@ -342,7 +684,7 @@
     "description": "Stylish handbag for any occasion"
   },
   {
-    "id": 39,
+    "id": 77,
     "title": "Designer Leather Handbag",
     "price": 89.99,
     "category": "accessories",
@@ -351,7 +693,7 @@
     "description": "Premium leather handbag for luxury style"
   },
   {
-    "id": 40,
+    "id": 78,
     "title": "Casual Tote Bag",
     "price": 44.99,
     "category": "accessories",
@@ -360,7 +702,7 @@
     "description": "Spacious tote bag for daily essentials"
   },
   {
-    "id": 41,
+    "id": 79,
     "title": "Elegant Clutch Bag",
     "price": 29.99,
     "category": "accessories",
@@ -369,7 +711,7 @@
     "description": "Compact clutch bag for evening events"
   },
   {
-    "id": 42,
+    "id": 80,
     "title": "Fashion Crossbody Bag",
     "price": 39.99,
     "category": "accessories",
@@ -378,7 +720,106 @@
     "description": "Convenient crossbody bag for hands-free style"
   },
   {
-    "id": 43,
+    "id": 81,
+    "title": "Designer Handbag 6",
+    "price": 54.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (6).jpg",
+    "description": "Designer handbag with premium finish"
+  },
+  {
+    "id": 82,
+    "title": "Luxury Handbag 7",
+    "price": 94.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (7).jpg",
+    "description": "Luxury handbag for exclusive occasions"
+  },
+  {
+    "id": 83,
+    "title": "Classic Handbag 8",
+    "price": 49.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (8).jpg",
+    "description": "Classic handbag for timeless style"
+  },
+  {
+    "id": 84,
+    "title": "Modern Handbag 9",
+    "price": 59.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (9).jpg",
+    "description": "Modern handbag with contemporary design"
+  },
+  {
+    "id": 85,
+    "title": "Premium Handbag 10",
+    "price": 69.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (10).jpg",
+    "description": "Premium handbag for sophisticated look"
+  },
+  {
+    "id": 86,
+    "title": "Executive Handbag 11",
+    "price": 79.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (11).jpg",
+    "description": "Executive handbag for business professionals"
+  },
+  {
+    "id": 87,
+    "title": "Fashion Handbag 12",
+    "price": 64.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (12).jpg",
+    "description": "Fashionable handbag for trendsetters"
+  },
+  {
+    "id": 88,
+    "title": "Elegant Handbag 13",
+    "price": 74.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (13).jpg",
+    "description": "Elegant handbag for special occasions"
+  },
+  {
+    "id": 89,
+    "title": "Designer Tote 14",
+    "price": 84.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (14).jpg",
+    "description": "Designer tote bag for luxury travel"
+  },
+  {
+    "id": 90,
+    "title": "Luxury Tote 15",
+    "price": 99.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (15).jpg",
+    "description": "Luxury tote bag for exclusive style"
+  },
+  {
+    "id": 91,
+    "title": "Premium Tote 16",
+    "price": 109.99,
+    "category": "accessories",
+    "subcategory": "hand bags",
+    "image": "images/accessories/hand bags (16).jpg",
+    "description": "Premium tote bag for ultimate luxury"
+  },
+  {
+    "id": 92,
     "title": "Elegant Earrings",
     "price": 19.99,
     "category": "accessories",
@@ -387,7 +828,7 @@
     "description": "Beautiful earrings to complement any outfit"
   },
   {
-    "id": 44,
+    "id": 93,
     "title": "Diamond Stud Earrings",
     "price": 49.99,
     "category": "accessories",
@@ -396,7 +837,7 @@
     "description": "Elegant diamond stud earrings for special occasions"
   },
   {
-    "id": 45,
+    "id": 94,
     "title": "Hoop Earrings",
     "price": 24.99,
     "category": "accessories",
@@ -405,7 +846,7 @@
     "description": "Classic hoop earrings for everyday wear"
   },
   {
-    "id": 46,
+    "id": 95,
     "title": "Drop Earrings",
     "price": 29.99,
     "category": "accessories",
@@ -414,7 +855,34 @@
     "description": "Elegant drop earrings for formal events"
   },
   {
-    "id": 47,
+    "id": 96,
+    "title": "Fashion Earrings 5",
+    "price": 22.99,
+    "category": "accessories",
+    "subcategory": "earrings",
+    "image": "images/accessories/earrings (5).jpg",
+    "description": "Fashionable earrings for trendy look"
+  },
+  {
+    "id": 97,
+    "title": "Classic Earrings 6",
+    "price": 26.99,
+    "category": "accessories",
+    "subcategory": "earrings",
+    "image": "images/accessories/earrings (6).jpg",
+    "description": "Classic earrings for timeless style"
+  },
+  {
+    "id": 98,
+    "title": "Simple Earrings",
+    "price": 17.99,
+    "category": "accessories",
+    "subcategory": "earrings",
+    "image": "images/accessories/earrings.jpg",
+    "description": "Simple elegant earrings for daily wear"
+  },
+  {
+    "id": 99,
     "title": "Fashion Hat",
     "price": 24.99,
     "category": "accessories",
@@ -423,7 +891,7 @@
     "description": "Stylish hat for sun protection and fashion"
   },
   {
-    "id": 48,
+    "id": 100,
     "title": "Baseball Cap",
     "price": 19.99,
     "category": "accessories",
@@ -432,7 +900,7 @@
     "description": "Sporty baseball cap for casual look"
   },
   {
-    "id": 49,
+    "id": 101,
     "title": "Fedora Hat",
     "price": 34.99,
     "category": "accessories",
@@ -441,7 +909,79 @@
     "description": "Classic fedora hat for sophisticated style"
   },
   {
-    "id": 50,
+    "id": 102,
+    "title": "Summer Hat 4",
+    "price": 27.99,
+    "category": "accessories",
+    "subcategory": "hats",
+    "image": "images/accessories/hats (4).jpg",
+    "description": "Summer hat for beach and outdoor activities"
+  },
+  {
+    "id": 103,
+    "title": "Winter Hat 5",
+    "price": 31.99,
+    "category": "accessories",
+    "subcategory": "hats",
+    "image": "images/accessories/hats (5).jpg",
+    "description": "Warm winter hat for cold weather protection"
+  },
+  {
+    "id": 104,
+    "title": "Fashion Hat 6",
+    "price": 29.99,
+    "category": "accessories",
+    "subcategory": "hats",
+    "image": "images/accessories/hats (6).jpg",
+    "description": "Fashionable hat for trendy style"
+  },
+  {
+    "id": 105,
+    "title": "Casual Hat 7",
+    "price": 21.99,
+    "category": "accessories",
+    "subcategory": "hats",
+    "image": "images/accessories/hats (7).jpg",
+    "description": "Casual hat for everyday wear"
+  },
+  {
+    "id": 106,
+    "title": "Designer Hat 8",
+    "price": 39.99,
+    "category": "accessories",
+    "subcategory": "hats",
+    "image": "images/accessories/hats (8).jpg",
+    "description": "Designer hat for premium look"
+  },
+  {
+    "id": 107,
+    "title": "Elegant Hat 9",
+    "price": 32.99,
+    "category": "accessories",
+    "subcategory": "hats",
+    "image": "images/accessories/hats (9).jpg",
+    "description": "Elegant hat for formal occasions"
+  },
+  {
+    "id": 108,
+    "title": "Sport Hat 10",
+    "price": 25.99,
+    "category": "accessories",
+    "subcategory": "hats",
+    "image": "images/accessories/hats (10).jpg",
+    "description": "Sport hat for active lifestyle"
+  },
+  {
+    "id": 109,
+    "title": "Fashion Accessories",
+    "price": 19.99,
+    "category": "accessories",
+    "subcategory": "other",
+    "image": "images/accessories/images (7).jpg",
+    "description": "Fashion accessories for complete look"
+  },
+  {
+    "id": 110,
     "title": "Gold Necklace Set",
     "price": 79.99,
     "category": "accessories",
@@ -450,7 +990,7 @@
     "description": "Elegant gold necklace set with matching earrings"
   },
   {
-    "id": 51,
+    "id": 111,
     "title": "Silver Bracelet",
     "price": 44.99,
     "category": "accessories",
@@ -459,7 +999,7 @@
     "description": "Beautiful silver bracelet for everyday wear"
   },
   {
-    "id": 52,
+    "id": 112,
     "title": "Pearl Jewelry Set",
     "price": 94.99,
     "category": "accessories",
@@ -468,7 +1008,61 @@
     "description": "Classic pearl jewelry set for formal occasions"
   },
   {
-    "id": 53,
+    "id": 113,
+    "title": "Diamond Necklace",
+    "price": 149.99,
+    "category": "accessories",
+    "subcategory": "jewelery",
+    "image": "images/accessories/jewelery (4).jpg",
+    "description": "Stunning diamond necklace for luxury style"
+  },
+  {
+    "id": 114,
+    "title": "Ruby Jewelry Set",
+    "price": 124.99,
+    "category": "accessories",
+    "subcategory": "jewelery",
+    "image": "images/accessories/jewelery (5).jpg",
+    "description": "Elegant ruby jewelry set for special events"
+  },
+  {
+    "id": 115,
+    "title": "Emerald Bracelet",
+    "price": 89.99,
+    "category": "accessories",
+    "subcategory": "jewelery",
+    "image": "images/accessories/jewelery (6).jpg",
+    "description": "Beautiful emerald bracelet for elegant look"
+  },
+  {
+    "id": 116,
+    "title": "Sapphire Earrings",
+    "price": 69.99,
+    "category": "accessories",
+    "subcategory": "jewelery",
+    "image": "images/accessories/jewelery (7).jpg",
+    "description": "Stunning sapphire earrings for formal wear"
+  },
+  {
+    "id": 117,
+    "title": "Platinum Ring",
+    "price": 199.99,
+    "category": "accessories",
+    "subcategory": "jewelery",
+    "image": "images/accessories/jewelery (8).jpg",
+    "description": "Luxurious platinum ring for special occasions"
+  },
+  {
+    "id": 118,
+    "title": "Designer Watch",
+    "price": 299.99,
+    "category": "accessories",
+    "subcategory": "jewelery",
+    "image": "images/accessories/jewelery (9).jpg",
+    "description": "Premium designer watch for luxury lifestyle"
+  },
+  {
+    "id": 119,
     "title": "Fashion Tie",
     "price": 24.99,
     "category": "accessories",
@@ -477,7 +1071,7 @@
     "description": "Professional tie for business meetings"
   },
   {
-    "id": 54,
+    "id": 120,
     "title": "Silk Necktie",
     "price": 34.99,
     "category": "accessories",
@@ -486,75 +1080,84 @@
     "description": "Premium silk necktie for formal events"
   },
   {
-    "id": 55,
-    "title": "Men's Shirt 6",
+    "id": 121,
+    "title": "Classic Tie 3",
+    "price": 27.99,
+    "category": "accessories",
+    "subcategory": "tie",
+    "image": "images/accessories/tie (3).jpg",
+    "description": "Classic tie for professional appearance"
+  },
+  {
+    "id": 122,
+    "title": "Modern Tie 4",
     "price": 31.99,
-    "category": "men",
-    "subcategory": "shirts",
-    "image": "images/men/shirts (6).jpg",
-    "description": "Stylish men's shirt for casual occasions"
+    "category": "accessories",
+    "subcategory": "tie",
+    "image": "images/accessories/tie (4).jpg",
+    "description": "Modern tie with contemporary design"
   },
   {
-    "id": 56,
-    "title": "Men's Shirt 7",
-    "price": 33.99,
-    "category": "men",
-    "subcategory": "shirts",
-    "image": "images/men/shirts (7).jpg",
-    "description": "Comfortable men's shirt for everyday wear"
+    "id": 123,
+    "title": "Designer Tie 5",
+    "price": 39.99,
+    "category": "accessories",
+    "subcategory": "tie",
+    "image": "images/accessories/tie (5).jpg",
+    "description": "Designer tie for premium look"
   },
   {
-    "id": 57,
-    "title": "Men's Shirt 8",
-    "price": 36.99,
-    "category": "men",
-    "subcategory": "shirts",
-    "image": "images/men/shirts (8).jpg",
-    "description": "Modern men's shirt with contemporary design"
+    "id": 124,
+    "title": "Fashion Tie 6",
+    "price": 29.99,
+    "category": "accessories",
+    "subcategory": "tie",
+    "image": "images/accessories/tie (6).jpg",
+    "description": "Fashionable tie for trendy style"
   },
   {
-    "id": 58,
-    "title": "Men's Shirt 9",
-    "price": 32.99,
-    "category": "men",
-    "subcategory": "shirts",
-    "image": "images/men/shirts (9).jpg",
-    "description": "Classic men's shirt for versatile styling"
+    "id": 125,
+    "title": "Executive Tie 7",
+    "price": 44.99,
+    "category": "accessories",
+    "subcategory": "tie",
+    "image": "images/accessories/tie (7).jpg",
+    "description": "Executive tie for leadership style"
   },
   {
-    "id": 59,
-    "title": "Men's Shirt 10",
-    "price": 34.99,
-    "category": "men",
-    "subcategory": "shirts",
-    "image": "images/men/shirts (10).jpg",
-    "description": "Premium men's shirt for special occasions"
+    "id": 126,
+    "title": "Luxury Tie 8",
+    "price": 54.99,
+    "category": "accessories",
+    "subcategory": "tie",
+    "image": "images/accessories/tie (8).jpg",
+    "description": "Luxury tie for exclusive occasions"
   },
   {
-    "id": 60,
-    "title": "Men's Shirt 11",
-    "price": 35.99,
-    "category": "men",
-    "subcategory": "shirts",
-    "image": "images/men/shirts (11).jpg",
-    "description": "Fashionable men's shirt for trendy look"
+    "id": 127,
+    "title": "Premium Tie 9",
+    "price": 49.99,
+    "category": "accessories",
+    "subcategory": "tie",
+    "image": "images/accessories/tie (9).jpg",
+    "description": "Premium tie for sophisticated look"
   },
   {
-    "id": 61,
-    "title": "Men's Shirt 12",
-    "price": 37.99,
-    "category": "men",
-    "subcategory": "shirts",
-    "image": "images/men/shirts (12).jpg",
-    "description": "Elegant men's shirt for formal events"
+    "id": 128,
+    "title": "Classic Necktie",
+    "price": 22.99,
+    "category": "accessories",
+    "subcategory": "tie",
+    "image": "images/accessories/tie (10).jpg",
+    "description": "Classic necktie for timeless style"
   },
   {
-    "id": 62,
-    "title": "Men's Shirt 13",
-    "price": 33.99,
-    "category": "men",
-    "subcategory": "shirts",
-    "image": "images/men/shirts (13).jpg",
-    "description": "Comfortable men's shirt for all-day wear"
+    "id": 129,
+    "title": "Fashion Tie Basic",
+    "price": 19.99,
+    "category": "accessories",
+    "subcategory": "tie",
+    "image": "images/accessories/tie.jpg",
+    "description": "Basic fashion tie for everyday wear"
   }
 ]
